@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ust-smart-ocr",
+  "private_key_id": "bc067713a6643ae2d8b23ea0790a5767fc9fb0ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCsj2CVF3xfdfs\nBiOT/lfezRdfiuk5VkWIA8Df2AYtbMpPpmraTfkoZMnf5p+iZtShh3APgJCMSubi\ngopi7r0qWKq5NPsGYCbU8ZG+cMeC5etE/TSIgtmA7Ov+ElAuTvFKOwXuRMfSYaFd\nCv7l4NNX500so4UbPDn3NmgFpFF0mBmT/aM1nUQ0nyG7t9NobxUVgddR6HMgwf/u\nW3QULD0P55sGkDDJawqmWSTk/4VtjrHeWlh3m3uHlYZp36ZEkjJmi+JpQQ3dw+mH\ny8SBDNCGq70iy5I700/QBg44s/U0U2z56zb2tbOYWM3HLLpUo6eeEqR/+WWQQTCH\nMlTfvc/rAgMBAAECggEBAJhsCCF/QSitF5yM1c+nwE0KDPFcg+fCdZ7dKWNU8Mkh\nMWWX6HFNt/D6rtyd5X2zuWVX7dAFG6TpgsXz4rk/JFMBpW5nXtqH7f6pvCr2igsd\nSsnw3O6+Wd9IHB0FY0ZNwTMW8DawHCvFCRoZYKLBF1PrHg0DW1KOHOc/7cH0+Vwn\n1SZdtA26NT17pOHQNbO3/eLIYDPxogG0r6PC8GyJt7bHvrSv+H5BmaTqRw/s3JQu\nENgN6e8pWPBSnGNk/YP/YDh5O+CxjlQdgAeBYs4NcUMbtLb3XeFnkv56FoqWZpqg\nlXAg/48a1ukYynlwjaoUgz7QFj85yOKtP/iSno/UymECgYEA7bNpGH6pw88Hy0MK\niSdTQ2zjhq2lpC5N8HGqzERV96XSeAXpU+b/LAGEJc1/ro2AQnqDZKpekE4ohu19\nVCCPgXVm7l+3hAyff3uGjx1rsYTsw4kEuE86tjsKuwiTlOz+8KrNhOsC2RQOLNLn\nDRxJdGi264eX/29w0fjRf+zE0fsCgYEA0a9MiQVizdn9DaqP7IFvjlNUkbbMTSG2\nDQUd91VSg+a8GbHgx+g71y/Xhrox2tTtKh6Bed28sPpKO2plD4KNsInfdjShSeHZ\nIsbfkH3ZLWn5LJxYko86m/8k+5kAqVIi8Zw/ZEH7s4YIzGb46qI0isdfGaWJ1sAh\nXKLVIhNfhtECgYEAzCEr2t5DuiVcAyGitaAw8BFd37XWLwWY5ykmTV9OGGuuMGab\nNvOEJW1z5+bvhJ5+DBkcJ2Hr7a9BPIZM/+cqdjm1WHaYqe0RODCDoPnaF0wY698K\nT6GywPY5Q9+cpeNVGKcF8eTEwFlpxvKje23UYwTeOaxrSvCQCbHNcDeL2usCgYAi\nM9fmGczOCxqt2f5z84EA1DLdOdYFVtRdN1J1/6LgBQj1oAAsW4M3TIR5Y3GyYjz1\nO9ieyj53F7x4CJjHeOInw7WBkIAmjwJeG9ZnuT9tmvWcAzynW1mSDII5z/E9rTop\n8vScI+8sj1ZsEPfVPfQYFwE6K7haISjP9XeSgVp5oQKBgEVq5hw9pDWdbLpeVX4j\nCppQB20wOgZcCdT0NkOd6u693x9qfCwDrVl9SmZkxPA3dFGxcsWI1lZsljo0qJJy\nB+ZAz74lrYGU11FX/Y7oNopq9XDRHFRnDxo3DY6e+mSFvq2EP1J06dSXUFUiumRh\nrt7wsTTFF0szEkef9euKYP+A\n-----END PRIVATE KEY-----\n",
+  "client_email": "ust-smart-ocr-account@ust-smart-ocr.iam.gserviceaccount.com",
+  "client_id": "104322699356119124404",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ust-smart-ocr-account%40ust-smart-ocr.iam.gserviceaccount.com"
+}

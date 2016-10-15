@@ -1,0 +1,213 @@
+2016-07-26 21:57:28 DEBUG OcrConverterResource:142 -  
+2016-07-26 21:57:28 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 21:57:28 DEBUG OcrConverterResource:142 - File uploaded to : Pepsi.jpg
+2016-07-26 21:57:37 DEBUG OcrConverterResource:142 - INGREDIENTS: SUGAR. UNBLEACHED</br>FLOUR, NIACIN. REDUCED IRON. THIAM</br>BI}, HIBOFLAVIN [VITAMIN 82}, FOLIO</br>AND/OR PALM AND/0R CANOLA OIL,</br>ALKALI), HIGH FRUCTOSE CORN SYRUI</br>AND/UR CALCIUM PHOSPHATE), BURNS</br>VANILLIN - AN ARTIFICIAL FLAVOR. CH</br></br>
+2016-07-26 21:57:37 DEBUG OcrConverterResource:142 - Pepsi.jpg Deleted
+2016-07-26 21:57:37 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 22:31:22 DEBUG AbzoobaParserResource:62 - Parsing With  Abzooba ....
+2016-07-26 22:33:36 DEBUG AbzoobaParserResource:62 - Parsing With  Abzooba ....
+2016-07-26 22:37:17 DEBUG AbzoobaParserResource:62 - Parsing With  Abzooba ....
+2016-07-26 22:41:59 DEBUG AbzoobaParserResource:60 - Parsing With  Abzooba ....
+2016-07-26 22:42:01 DEBUG AbzoobaParserResource:60 - Output from Server .... 
+2016-07-26 22:42:01 DEBUG AbzoobaParserResource:60 - {"id":"test","Raw_Data":"hello","Brand":"Nil","Age":"Nil","Warning":"Nil","Pieces":"Nil","Players":"nil","Net_Weight":"Nil"}
+2016-07-26 23:00:13 DEBUG AbzoobaParserResource:69 - Parsing With  Abzooba ....
+2016-07-26 23:00:16 DEBUG AbzoobaParserResource:69 - Output from Server .... 
+2016-07-26 23:00:16 DEBUG AbzoobaParserResource:69 - {"id":"test","Raw_Data":"lego marvel super heroes age 7-14 76031the hulk buster smash 248 pcs\/pzs warning: choking hazard toy contains small parts and a small ball.not for children under 3 years.avengersage of ultronnew super jumper","Brand":"lego","Age":"7-14","Warning":"choking hazard","Pieces":"248","Players":"nil","Net_Weight":"Nil"}
+2016-07-26 23:12:48 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:12:48 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:12:48 DEBUG OcrConverterResource:142 - File uploaded to : Pepsi.jpg
+2016-07-26 23:12:58 DEBUG OcrConverterResource:142 - INGREDIENTS: SUGAR. UNBLEACHED</br>FLOUR, NIACIN. REDUCED IRON. THIAM</br>BI}, HIBOFLAVIN [VITAMIN 82}, FOLIO</br>AND/OR PALM AND/0R CANOLA OIL,</br>ALKALI), HIGH FRUCTOSE CORN SYRUI</br>AND/UR CALCIUM PHOSPHATE), BURNS</br>VANILLIN - AN ARTIFICIAL FLAVOR. CH</br></br>
+2016-07-26 23:12:58 DEBUG OcrConverterResource:142 - Pepsi.jpg Deleted
+2016-07-26 23:12:58 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:13:42 DEBUG AbzoobaParserResource:69 - Parsing With  Abzooba ....
+2016-07-26 23:13:43 DEBUG AbzoobaParserResource:69 - Output from Server .... 
+2016-07-26 23:13:43 DEBUG AbzoobaParserResource:69 - {"id":"test","Raw_Data":"ingredients: sugar. unbleached flour, niacin. reduced iron. thiambi}, hiboflavin vitamin 82}, folioand\/or palm and\/0r canola oil,alkali), high fructose corn syruiand\/ur calcium phosphate), burnsvanillin - an artificial flavor. ch","Brand":"Nil","Age":"Nil","Warning":"Nil","Pieces":"Nil","Players":"nil","Net_Weight":"Nil"}
+2016-07-26 23:17:57 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:17:57 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:17:57 DEBUG OcrConverterResource:142 - File uploaded to : delllatitudee5410.jpg
+2016-07-26 23:18:04 DEBUG OcrConverterResource:142 - m <</br>Dell Latitude E5410 Ci5l 463/ 50063 La ptap</br>Specifications</br>Processor</br>Ca(he 3 MB</br>Processor Cove ‘5</br>Chlpset mter MobHe HM 57 Express</br>crock Speed 2.66</br>Memory</br>Memory Slots 2 {Unused Slots 0)</br>System Memory 4</br>Expandabre Memcvy Up In a GE</br>Storage</br>RPM 5400 rpm</br>HDD Capacrty 500</br>Hardware Interface SATA</br>Plat Form</br>Opevatmg System No</br>Display</br>Screen SrZe 14</br>Resoiutmn 1366 X 768 Pixel</br></br>
+2016-07-26 23:18:04 DEBUG OcrConverterResource:142 - delllatitudee5410.jpg Deleted
+2016-07-26 23:18:04 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:20:17 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:20:17 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:20:17 DEBUG OcrConverterResource:142 - File uploaded to : delllatitudee5410.jpg
+2016-07-26 23:20:24 DEBUG OcrConverterResource:142 - m <</br>Dell Latitude E5410 Ci5l 463/ 50063 La ptap</br>Specifications</br>Processor</br>Ca(he 3 MB</br>Processor Cove ‘5</br>Chlpset mter MobHe HM 57 Express</br>crock Speed 2.66</br>Memory</br>Memory Slots 2 {Unused Slots 0)</br>System Memory 4</br>Expandabre Memcvy Up In a GE</br>Storage</br>RPM 5400 rpm</br>HDD Capacrty 500</br>Hardware Interface SATA</br>Plat Form</br>Opevatmg System No</br>Display</br>Screen SrZe 14</br>Resoiutmn 1366 X 768 Pixel</br></br>
+2016-07-26 23:20:24 DEBUG OcrConverterResource:142 - delllatitudee5410.jpg Deleted
+2016-07-26 23:20:24 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:20:38 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:20:38 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:20:38 DEBUG OcrConverterResource:142 - File uploaded to : delllatitudee5410.jpg
+2016-07-26 23:20:44 DEBUG OcrConverterResource:142 - m <</br>Dell Latitude E5410 Ci5l 463/ 50063 La ptap</br>Specifications</br>Processor</br>Ca(he 3 MB</br>Processor Cove ‘5</br>Chlpset mter MobHe HM 57 Express</br>crock Speed 2.66</br>Memory</br>Memory Slots 2 {Unused Slots 0)</br>System Memory 4</br>Expandabre Memcvy Up In a GE</br>Storage</br>RPM 5400 rpm</br>HDD Capacrty 500</br>Hardware Interface SATA</br>Plat Form</br>Opevatmg System No</br>Display</br>Screen SrZe 14</br>Resoiutmn 1366 X 768 Pixel</br></br>
+2016-07-26 23:20:44 DEBUG OcrConverterResource:142 - delllatitudee5410.jpg Deleted
+2016-07-26 23:20:44 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:20:51 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:20:51 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:20:51 DEBUG OcrConverterResource:142 - File uploaded to : delllatitudee5410.jpg
+2016-07-26 23:20:57 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:20:57 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:20:57 DEBUG OcrConverterResource:142 - File uploaded to : delllatitudee5410.jpg
+2016-07-26 23:20:58 DEBUG OcrConverterResource:142 - m <</br>Dell Latitude E5410 Ci5l 463/ 50063 La ptap</br>Specifications</br>Processor</br>Ca(he 3 MB</br>Processor Cove ‘5</br>Chlpset mter MobHe HM 57 Express</br>crock Speed 2.66</br>Memory</br>Memory Slots 2 {Unused Slots 0)</br>System Memory 4</br>Expandabre Memcvy Up In a GE</br>Storage</br>RPM 5400 rpm</br>HDD Capacrty 500</br>Hardware Interface SATA</br>Plat Form</br>Opevatmg System No</br>Display</br>Screen SrZe 14</br>Resoiutmn 1366 X 768 Pixel</br></br>
+2016-07-26 23:20:58 DEBUG OcrConverterResource:142 - delllatitudee5410.jpg Deleted
+2016-07-26 23:20:58 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:21:04 DEBUG OcrConverterResource:142 - m <</br>Dell Latitude E5410 Ci5l 463/ 50063 La ptap</br>Specifications</br>Processor</br>Ca(he 3 MB</br>Processor Cove ‘5</br>Chlpset mter MobHe HM 57 Express</br>crock Speed 2.66</br>Memory</br>Memory Slots 2 {Unused Slots 0)</br>System Memory 4</br>Expandabre Memcvy Up In a GE</br>Storage</br>RPM 5400 rpm</br>HDD Capacrty 500</br>Hardware Interface SATA</br>Plat Form</br>Opevatmg System No</br>Display</br>Screen SrZe 14</br>Resoiutmn 1366 X 768 Pixel</br></br>
+2016-07-26 23:21:04 DEBUG OcrConverterResource:142 - Failed to delete File
+2016-07-26 23:21:04 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:21:07 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:21:07 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:21:07 DEBUG OcrConverterResource:142 - File uploaded to : Pepsi.jpg
+2016-07-26 23:21:12 DEBUG OcrConverterResource:142 - INGREDIENTS: SUGAR. UNBLEACHED</br>FLOUR, NIACIN. REDUCED IRON. THIAM</br>BI}, HIBOFLAVIN [VITAMIN 82}, FOLIO</br>AND/OR PALM AND/0R CANOLA OIL,</br>ALKALI), HIGH FRUCTOSE CORN SYRUI</br>AND/UR CALCIUM PHOSPHATE), BURNS</br>VANILLIN - AN ARTIFICIAL FLAVOR. CH</br></br>
+2016-07-26 23:21:12 DEBUG OcrConverterResource:142 - Pepsi.jpg Deleted
+2016-07-26 23:21:12 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:24:11 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:24:11 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:24:11 DEBUG OcrConverterResource:142 - File uploaded to : Joystick-Gamepad.jpg
+2016-07-26 23:24:13 DEBUG OcrConverterResource:142 - ii Wireless</br></br>2 TelescopicController</br>G</br></br>g [E</br></br>o</br></br>g D</br></br>8 [E</br></br>
+2016-07-26 23:24:13 DEBUG OcrConverterResource:142 - Joystick-Gamepad.jpg Deleted
+2016-07-26 23:24:13 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:33:27 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:33:27 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:33:27 DEBUG OcrConverterResource:142 - File uploaded to : Joystick-Gamepad.jpg
+2016-07-26 23:33:28 DEBUG OcrConverterResource:142 - ii Wireless</br></br>2 TelescopicController</br>G</br></br>g [E</br></br>o</br></br>g D</br></br>8 [E</br></br>
+2016-07-26 23:33:28 DEBUG OcrConverterResource:142 - Joystick-Gamepad.jpg Deleted
+2016-07-26 23:33:28 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:34:36 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:34:36 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:34:36 DEBUG OcrConverterResource:142 - File uploaded to : Nutritional_Fact.png
+2016-07-26 23:35:01 DEBUG OcrConverterResource:142 - Sample label for</br>Macaroni & Cheese</br>Serving Size 1 cup (228g)</br>Servings Per Container 2</br>—</br>Amount Per Sewing</br>Calories 250 Calories from Fat 110</br>—</br>o/o Daily Value*</br>Total Fat 12g 18%</br>Saturated Fat 3g 15%</br>Trans Fat 3g</br>Cholesterol 30mg 10%</br>9w</br>Total Carbohydrate 31 g 10%</br>Dietary Fiber 0g 0%</br>Sugars 5g</br>Protein 5g</br>—</br>Vitamin A 4%</br>Vitamin C 2%</br>Calcium 20%</br>Iron 4%</br>* Percent Daily Values are based on a 2,000 calorie diet.</br>Your Daily Values may be higher or lower depending on</br>your calorie needs.</br>Calories 2,000 2,500</br>Total Fat Less than 65g 809</br>Sat Fat Less than 209 25g</br>Cholesterol Less than 300mg 300mg</br>Sodium Less than 2,400mg 2,400mg</br>Total Carbohydrate 3009 3759</br>Dietary Fiber 25g 30g</br></br>
+2016-07-26 23:35:01 DEBUG OcrConverterResource:142 - Nutritional_Fact.png Deleted
+2016-07-26 23:35:01 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:43:29 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:43:29 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:43:29 DEBUG OcrConverterResource:142 - File uploaded to : Nutritional_Fact.png
+2016-07-26 23:43:45 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:43:45 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:43:45 DEBUG OcrConverterResource:142 - File uploaded to : Nutritional_Fact.png
+2016-07-26 23:43:47 DEBUG OcrConverterResource:142 - Sample label for</br>Macaroni & Cheese</br>Serving Size 1 cup (228g)</br>Servings Per Container 2</br>—</br>Amount Per Sewing</br>Calories 250 Calories from Fat 110</br>—</br>o/o Daily Value*</br>Total Fat 12g 18%</br>Saturated Fat 3g 15%</br>Trans Fat 3g</br>Cholesterol 30mg 10%</br>9w</br>Total Carbohydrate 31 g 10%</br>Dietary Fiber 0g 0%</br>Sugars 5g</br>Protein 5g</br>—</br>Vitamin A 4%</br>Vitamin C 2%</br>Calcium 20%</br>Iron 4%</br>* Percent Daily Values are based on a 2,000 calorie diet.</br>Your Daily Values may be higher or lower depending on</br>your calorie needs.</br>Calories 2,000 2,500</br>Total Fat Less than 65g 809</br>Sat Fat Less than 209 25g</br>Cholesterol Less than 300mg 300mg</br>Sodium Less than 2,400mg 2,400mg</br>Total Carbohydrate 3009 3759</br>Dietary Fiber 25g 30g</br></br>
+2016-07-26 23:43:47 DEBUG OcrConverterResource:142 - Nutritional_Fact.png Deleted
+2016-07-26 23:43:47 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:43:56 DEBUG OcrConverterResource:142 - Sample label for</br>Macaroni & Cheese</br>Serving Size 1 cup (228g)</br>Servings Per Container 2</br>—</br>Amount Per Sewing</br>Calories 250 Calories from Fat 110</br>—</br>o/o Daily Value*</br>Total Fat 12g 18%</br>Saturated Fat 3g 15%</br>Trans Fat 3g</br>Cholesterol 30mg 10%</br>9w</br>Total Carbohydrate 31 g 10%</br>Dietary Fiber 0g 0%</br>Sugars 5g</br>Protein 5g</br>—</br>Vitamin A 4%</br>Vitamin C 2%</br>Calcium 20%</br>Iron 4%</br>* Percent Daily Values are based on a 2,000 calorie diet.</br>Your Daily Values may be higher or lower depending on</br>your calorie needs.</br>Calories 2,000 2,500</br>Total Fat Less than 65g 809</br>Sat Fat Less than 209 25g</br>Cholesterol Less than 300mg 300mg</br>Sodium Less than 2,400mg 2,400mg</br>Total Carbohydrate 3009 3759</br>Dietary Fiber 25g 30g</br></br>
+2016-07-26 23:43:56 DEBUG OcrConverterResource:142 - Failed to delete File
+2016-07-26 23:43:56 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:44:05 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:44:05 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:44:05 DEBUG OcrConverterResource:142 - File uploaded to : Nutritional_Fact.png
+2016-07-26 23:44:15 DEBUG OcrConverterResource:142 - Sample label for</br>Macaroni & Cheese</br>Serving Size 1 cup (228g)</br>Servings Per Container 2</br>—</br>Amount Per Sewing</br>Calories 250 Calories from Fat 110</br>—</br>o/o Daily Value*</br>Total Fat 12g 18%</br>Saturated Fat 3g 15%</br>Trans Fat 3g</br>Cholesterol 30mg 10%</br>9w</br>Total Carbohydrate 31 g 10%</br>Dietary Fiber 0g 0%</br>Sugars 5g</br>Protein 5g</br>—</br>Vitamin A 4%</br>Vitamin C 2%</br>Calcium 20%</br>Iron 4%</br>* Percent Daily Values are based on a 2,000 calorie diet.</br>Your Daily Values may be higher or lower depending on</br>your calorie needs.</br>Calories 2,000 2,500</br>Total Fat Less than 65g 809</br>Sat Fat Less than 209 25g</br>Cholesterol Less than 300mg 300mg</br>Sodium Less than 2,400mg 2,400mg</br>Total Carbohydrate 3009 3759</br>Dietary Fiber 25g 30g</br></br>
+2016-07-26 23:44:15 DEBUG OcrConverterResource:142 - Nutritional_Fact.png Deleted
+2016-07-26 23:44:15 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:44:25 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:44:25 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:44:25 DEBUG OcrConverterResource:142 - File uploaded to : Nutritional_Fact.png
+2016-07-26 23:44:34 DEBUG OcrConverterResource:142 - Sample label for</br>Macaroni & Cheese</br>Serving Size 1 cup (228g)</br>Servings Per Container 2</br>—</br>Amount Per Sewing</br>Calories 250 Calories from Fat 110</br>—</br>o/o Daily Value*</br>Total Fat 12g 18%</br>Saturated Fat 3g 15%</br>Trans Fat 3g</br>Cholesterol 30mg 10%</br>9w</br>Total Carbohydrate 31 g 10%</br>Dietary Fiber 0g 0%</br>Sugars 5g</br>Protein 5g</br>—</br>Vitamin A 4%</br>Vitamin C 2%</br>Calcium 20%</br>Iron 4%</br>* Percent Daily Values are based on a 2,000 calorie diet.</br>Your Daily Values may be higher or lower depending on</br>your calorie needs.</br>Calories 2,000 2,500</br>Total Fat Less than 65g 809</br>Sat Fat Less than 209 25g</br>Cholesterol Less than 300mg 300mg</br>Sodium Less than 2,400mg 2,400mg</br>Total Carbohydrate 3009 3759</br>Dietary Fiber 25g 30g</br></br>
+2016-07-26 23:44:34 DEBUG OcrConverterResource:142 - Nutritional_Fact.png Deleted
+2016-07-26 23:44:34 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:44:44 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:44:44 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:44:44 DEBUG OcrConverterResource:142 - File uploaded to : Nutritional_Fact.png
+2016-07-26 23:44:54 DEBUG OcrConverterResource:142 - Sample label for</br>Macaroni & Cheese</br>Serving Size 1 cup (228g)</br>Servings Per Container 2</br>—</br>Amount Per Sewing</br>Calories 250 Calories from Fat 110</br>—</br>o/o Daily Value*</br>Total Fat 12g 18%</br>Saturated Fat 3g 15%</br>Trans Fat 3g</br>Cholesterol 30mg 10%</br>9w</br>Total Carbohydrate 31 g 10%</br>Dietary Fiber 0g 0%</br>Sugars 5g</br>Protein 5g</br>—</br>Vitamin A 4%</br>Vitamin C 2%</br>Calcium 20%</br>Iron 4%</br>* Percent Daily Values are based on a 2,000 calorie diet.</br>Your Daily Values may be higher or lower depending on</br>your calorie needs.</br>Calories 2,000 2,500</br>Total Fat Less than 65g 809</br>Sat Fat Less than 209 25g</br>Cholesterol Less than 300mg 300mg</br>Sodium Less than 2,400mg 2,400mg</br>Total Carbohydrate 3009 3759</br>Dietary Fiber 25g 30g</br></br>
+2016-07-26 23:44:54 DEBUG OcrConverterResource:142 - Nutritional_Fact.png Deleted
+2016-07-26 23:44:54 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:47:14 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:47:14 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:47:14 DEBUG OcrConverterResource:142 - File uploaded to : Joystick-Gamepad.jpg
+2016-07-26 23:47:16 DEBUG OcrConverterResource:142 - ii Wireless</br></br>2 TelescopicController</br>G</br></br>g [E</br></br>o</br></br>g D</br></br>8 [E</br></br>
+2016-07-26 23:47:16 DEBUG OcrConverterResource:142 - Joystick-Gamepad.jpg Deleted
+2016-07-26 23:47:16 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:50:08 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:50:08 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:50:08 DEBUG OcrConverterResource:142 - File uploaded to : delllatitudee5410.jpg
+2016-07-26 23:50:16 DEBUG OcrConverterResource:142 - m <</br>Dell Latitude E5410 Ci5l 463/ 50063 La ptap</br>Specifications</br>Processor</br>Ca(he 3 MB</br>Processor Cove ‘5</br>Chlpset mter MobHe HM 57 Express</br>crock Speed 2.66</br>Memory</br>Memory Slots 2 {Unused Slots 0)</br>System Memory 4</br>Expandabre Memcvy Up In a GE</br>Storage</br>RPM 5400 rpm</br>HDD Capacrty 500</br>Hardware Interface SATA</br>Plat Form</br>Opevatmg System No</br>Display</br>Screen SrZe 14</br>Resoiutmn 1366 X 768 Pixel</br></br>
+2016-07-26 23:50:16 DEBUG OcrConverterResource:142 - delllatitudee5410.jpg Deleted
+2016-07-26 23:50:16 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-26 23:53:34 DEBUG OcrConverterResource:142 -  
+2016-07-26 23:53:34 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-26 23:53:34 DEBUG OcrConverterResource:142 - File uploaded to : Nutritional_Fact.png
+2016-07-26 23:53:50 DEBUG OcrConverterResource:142 - Sample label for Macaroni & Cheese Serving Size 1 cup (228g) Servings Per Container 2 — Amount Per Sewing Calories 250 Calories from Fat 110 — o/o Daily Value* Total Fat 12g 18% Saturated Fat 3g 15% Trans Fat 3g Cholesterol 30mg 10% 9w Total Carbohydrate 31 g 10% Dietary Fiber 0g 0% Sugars 5g Protein 5g — Vitamin A 4% Vitamin C 2% Calcium 20% Iron 4% * Percent Daily Values are based on a 2,000 calorie diet. Your Daily Values may be higher or lower depending on your calorie needs. Calories 2,000 2,500 Total Fat Less than 65g 809 Sat Fat Less than 209 25g Cholesterol Less than 300mg 300mg Sodium Less than 2,400mg 2,400mg Total Carbohydrate 3009 3759 Dietary Fiber 25g 30g  
+2016-07-26 23:53:50 DEBUG OcrConverterResource:142 - Nutritional_Fact.png Deleted
+2016-07-26 23:53:50 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-27 00:03:27 DEBUG OcrConverterResource:142 -  
+2016-07-27 00:03:27 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-27 00:03:27 DEBUG OcrConverterResource:142 - File uploaded to : Nutritional_Fact.png
+2016-07-27 00:03:37 DEBUG OcrConverterResource:142 - Sample label for Macaroni & Cheese Serving Size 1 cup (228g) Servings Per Container 2 — Amount Per Sewing Calories 250 Calories from Fat 110 — o/o Daily Value* Total Fat 12g 18% Saturated Fat 3g 15% Trans Fat 3g Cholesterol 30mg 10% 9w Total Carbohydrate 31 g 10% Dietary Fiber 0g 0% Sugars 5g Protein 5g — Vitamin A 4% Vitamin C 2% Calcium 20% Iron 4% * Percent Daily Values are based on a 2,000 calorie diet. Your Daily Values may be higher or lower depending on your calorie needs. Calories 2,000 2,500 Total Fat Less than 65g 809 Sat Fat Less than 209 25g Cholesterol Less than 300mg 300mg Sodium Less than 2,400mg 2,400mg Total Carbohydrate 3009 3759 Dietary Fiber 25g 30g  
+2016-07-27 00:03:37 DEBUG OcrConverterResource:142 - Nutritional_Fact.png Deleted
+2016-07-27 00:03:37 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-27 00:06:25 DEBUG OcrConverterResource:142 -  
+2016-07-27 00:06:25 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-27 00:06:25 DEBUG OcrConverterResource:142 - File uploaded to : Pepsi.jpg
+2016-07-27 00:06:31 DEBUG OcrConverterResource:142 - INGREDIENTS: SUGAR. UNBLEACHED FLOUR, NIACIN. REDUCED IRON. THIAM BI}, HIBOFLAVIN [VITAMIN 82}, FOLIO AND/OR PALM AND/0R CANOLA OIL, ALKALI), HIGH FRUCTOSE CORN SYRUI AND/UR CALCIUM PHOSPHATE), BURNS VANILLIN - AN ARTIFICIAL FLAVOR. CH  
+2016-07-27 00:06:31 DEBUG OcrConverterResource:142 - Pepsi.jpg Deleted
+2016-07-27 00:06:31 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-27 00:06:34 DEBUG AbzoobaParserResource:69 - Parsing With  Abzooba ....
+2016-07-27 00:06:35 DEBUG AbzoobaParserResource:69 - Output from Server .... 
+2016-07-27 00:06:35 DEBUG AbzoobaParserResource:69 - {"id":"hello","Raw_Data":"ingredients: sugar. unbleached flour, niacin. reduced iron. thiam bi}, hiboflavin vitamin 82}, folio and\/or palm and\/0r canola oil, alkali), high fructose corn syrui and\/ur calcium phosphate), burns vanillin - an artificial flavor. ch","Brand":"Nil","Age":"Nil","Warning":"Nil","Pieces":"Nil","Players":"nil","Net_Weight":"Nil"}
+2016-07-27 00:08:39 DEBUG OcrConverterResource:142 -  
+2016-07-27 00:08:39 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-27 00:08:39 DEBUG OcrConverterResource:142 - File uploaded to : Pepsi.jpg
+2016-07-27 00:08:43 DEBUG OcrConverterResource:142 - INGREDIENTS: SUGAR. UNBLEACHED FLOUR, NIACIN. REDUCED IRON. THIAM BI}, HIBOFLAVIN [VITAMIN 82}, FOLIO AND/OR PALM AND/0R CANOLA OIL, ALKALI), HIGH FRUCTOSE CORN SYRUI AND/UR CALCIUM PHOSPHATE), BURNS VANILLIN - AN ARTIFICIAL FLAVOR. CH  
+2016-07-27 00:08:43 DEBUG OcrConverterResource:142 - Pepsi.jpg Deleted
+2016-07-27 00:08:43 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-27 00:08:47 DEBUG AbzoobaParserResource:69 - Parsing With  Abzooba ....
+2016-07-27 00:08:49 DEBUG AbzoobaParserResource:69 - Output from Server .... 
+2016-07-27 00:08:49 DEBUG AbzoobaParserResource:69 - {"id":"hello","Raw_Data":"ingredients: sugar. unbleached flour, niacin. reduced iron. thiam bi}, hiboflavin vitamin 82}, folio and\/or palm and\/0r canola oil, alkali), high fructose corn syrui and\/ur calcium phosphate), burns vanillin - an artificial flavor. ch","Brand":"Nil","Age":"Nil","Warning":"Nil","Pieces":"Nil","Players":"nil","Net_Weight":"Nil"}
+2016-07-27 00:12:28 DEBUG OcrConverterResource:142 -  
+2016-07-27 00:12:28 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-27 00:12:28 DEBUG OcrConverterResource:142 - File uploaded to : Joystick-Gamepad.jpg
+2016-07-27 00:12:29 DEBUG OcrConverterResource:142 - ii Wireless  2 TelescopicController G  g [E  o  g D  8 [E  
+2016-07-27 00:12:29 DEBUG OcrConverterResource:142 - Joystick-Gamepad.jpg Deleted
+2016-07-27 00:12:29 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-27 00:14:02 DEBUG OcrConverterResource:142 -  
+2016-07-27 00:14:02 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-27 00:14:02 DEBUG OcrConverterResource:142 - File uploaded to : Joystick-Gamepad.jpg
+2016-07-27 00:14:03 DEBUG OcrConverterResource:142 - ii Wireless  2 TelescopicController G  g [E  o  g D  8 [E  
+2016-07-27 00:14:03 DEBUG OcrConverterResource:142 - Joystick-Gamepad.jpg Deleted
+2016-07-27 00:14:03 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-27 00:14:04 DEBUG AbzoobaParserResource:69 - Parsing With  Abzooba ....
+2016-07-27 00:14:05 DEBUG AbzoobaParserResource:69 - Output from Server .... 
+2016-07-27 00:14:05 DEBUG AbzoobaParserResource:69 - {"id":"hello","Raw_Data":"ii wireless 2 telescopiccontroller g g e o g d 8 e","Brand":"Nil","Age":"Nil","Warning":"Nil","Pieces":"Nil","Players":"nil","Net_Weight":"Nil"}
+2016-07-27 00:45:22 DEBUG OcrConverterResource:142 -  
+2016-07-27 00:45:22 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-27 00:45:22 DEBUG OcrConverterResource:142 - File uploaded to : Nutritional_Fact.png
+2016-07-27 00:46:48 DEBUG OcrConverterResource:142 - Sample label for Macaroni & Cheese Serving Size 1 cup (228g) Servings Per Container 2 — Amount Per Sewing Calories 250 Calories from Fat 110 — o/o Daily Value* Total Fat 12g 18% Saturated Fat 3g 15% Trans Fat 3g Cholesterol 30mg 10% 9w Total Carbohydrate 31 g 10% Dietary Fiber 0g 0% Sugars 5g Protein 5g — Vitamin A 4% Vitamin C 2% Calcium 20% Iron 4% * Percent Daily Values are based on a 2,000 calorie diet. Your Daily Values may be higher or lower depending on your calorie needs. Calories 2,000 2,500 Total Fat Less than 65g 809 Sat Fat Less than 209 25g Cholesterol Less than 300mg 300mg Sodium Less than 2,400mg 2,400mg Total Carbohydrate 3009 3759 Dietary Fiber 25g 30g  
+2016-07-27 00:46:48 DEBUG OcrConverterResource:142 - Nutritional_Fact.png Deleted
+2016-07-27 00:46:48 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-27 00:46:49 DEBUG AbzoobaParserResource:69 - Parsing With  Abzooba ....
+2016-07-27 00:46:51 DEBUG AbzoobaParserResource:69 - Output from Server .... 
+2016-07-27 00:46:51 DEBUG AbzoobaParserResource:69 - {"id":"hello","Raw_Data":"sample label for macaroni & cheese serving size 1 cup (228g) servings per container 2 amount per sewing calories 250 calories from fat 110 o\/o daily value* total fat 12g 18% saturated fat 3g 15% trans fat 3g cholesterol 30mg 10% 9w total carbohydrate 31 g 10% dietary fiber 0g 0% sugars 5g protein 5g vitamin a 4% vitamin c 2% calcium 20% iron 4% * percent daily values are based on a 2,000 calorie diet. your daily values may be higher or lower depending on your calorie needs. calories 2,000 2,500 total fat less than 65g 809 sat fat less than 209 25g cholesterol less than 300mg 300mg sodium less than 2,400mg 2,400mg total carbohydrate 3009 3759 dietary fiber 25g 30g","Brand":"Nil","Age":"Nil","Warning":"Nil","Pieces":"Nil","Players":"nil","Net_Weight":"Nil"}
+2016-07-27 00:47:09 DEBUG OcrConverterResource:142 -  
+2016-07-27 00:47:09 DEBUG OcrConverterResource:142 - ******** New Conversion Started *******
+2016-07-27 00:47:09 DEBUG OcrConverterResource:142 - File uploaded to : Nutritional_Fact.png
+2016-07-27 00:47:46 DEBUG OcrConverterResource:142 - Sample label for Macaroni & Cheese Serving Size 1 cup (228g) Servings Per Container 2 — Amount Per Sewing Calories 250 Calories from Fat 110 — o/o Daily Value* Total Fat 12g 18% Saturated Fat 3g 15% Trans Fat 3g Cholesterol 30mg 10% 9w Total Carbohydrate 31 g 10% Dietary Fiber 0g 0% Sugars 5g Protein 5g — Vitamin A 4% Vitamin C 2% Calcium 20% Iron 4% * Percent Daily Values are based on a 2,000 calorie diet. Your Daily Values may be higher or lower depending on your calorie needs. Calories 2,000 2,500 Total Fat Less than 65g 809 Sat Fat Less than 209 25g Cholesterol Less than 300mg 300mg Sodium Less than 2,400mg 2,400mg Total Carbohydrate 3009 3759 Dietary Fiber 25g 30g  
+2016-07-27 00:47:46 DEBUG OcrConverterResource:142 - Nutritional_Fact.png Deleted
+2016-07-27 00:47:46 DEBUG OcrConverterResource:142 - Saved as TXT 
+2016-07-27 00:47:46 DEBUG AbzoobaParserResource:69 - Parsing With  Abzooba ....
+2016-07-27 00:47:48 DEBUG AbzoobaParserResource:69 - Output from Server .... 
+2016-07-27 00:47:48 DEBUG AbzoobaParserResource:69 - {"id":"hello","Raw_Data":"sample label for macaroni & cheese serving size 1 cup (228g) servings per container 2 amount per sewing calories 250 calories from fat 110 o\/o daily value* total fat 12g 18% saturated fat 3g 15% trans fat 3g cholesterol 30mg 10% 9w total carbohydrate 31 g 10% dietary fiber 0g 0% sugars 5g protein 5g vitamin a 4% vitamin c 2% calcium 20% iron 4% * percent daily values are based on a 2,000 calorie diet. your daily values may be higher or lower depending on your calorie needs. calories 2,000 2,500 total fat less than 65g 809 sat fat less than 209 25g cholesterol less than 300mg 300mg sodium less than 2,400mg 2,400mg total carbohydrate 3009 3759 dietary fiber 25g 30g","Brand":"Nil","Age":"Nil","Warning":"Nil","Pieces":"Nil","Players":"nil","Net_Weight":"Nil"}
+2016-08-07 13:13:05 DEBUG GoogleVisionResource:284 -  
+2016-08-07 13:13:05 DEBUG GoogleVisionResource:284 - ******** New Conversion Started *******
+2016-08-07 13:13:06 DEBUG GoogleVisionResource:284 - ******** Saved Files *******
+2016-08-07 13:20:02 DEBUG GoogleVisionResource:284 -  
+2016-08-07 13:20:02 DEBUG GoogleVisionResource:284 - ******** New Conversion Started *******
+2016-08-07 13:20:02 DEBUG GoogleVisionResource:284 - ******** Saved Files *******
+2016-09-28 21:26:47 DEBUG GoogleVisionResource:336 -  
+2016-09-28 21:26:47 DEBUG GoogleVisionResource:336 - ******** New Conversion Started *******
+2016-09-28 21:26:47 DEBUG GoogleVisionResource:336 - ******** Saved Files *******
+2016-09-28 21:27:01 DEBUG AbzoobaParserResource:105 - Parsing With  Abzooba ....
+2016-09-28 21:28:30 DEBUG GoogleVisionResource:336 -  
+2016-09-28 21:28:30 DEBUG GoogleVisionResource:336 - ******** New Conversion Started *******
+2016-09-28 21:28:30 DEBUG GoogleVisionResource:336 - ******** Saved Files *******
+2016-09-28 21:28:42 DEBUG AbzoobaParserResource:105 - Parsing With  Abzooba ....
+2016-09-28 21:29:48 DEBUG GoogleVisionResource:336 -  
+2016-09-28 21:29:48 DEBUG GoogleVisionResource:336 - ******** New Conversion Started *******
+2016-09-28 21:29:49 DEBUG GoogleVisionResource:336 - ******** Saved Files *******
+2016-09-28 21:29:58 DEBUG AbzoobaParserResource:105 - Parsing With  Abzooba ....
+2016-09-28 21:42:49 DEBUG GoogleVisionResource:336 -  
+2016-09-28 21:42:49 DEBUG GoogleVisionResource:336 - ******** New Conversion Started *******
+2016-09-28 21:42:49 DEBUG GoogleVisionResource:336 - ******** Saved Files *******
+2016-09-28 21:42:59 DEBUG AbzoobaParserResource:105 - Parsing With  Abzooba ....
+2016-09-28 22:11:11 DEBUG GoogleVisionResource:336 -  
+2016-09-28 22:11:11 DEBUG GoogleVisionResource:336 - ******** New Conversion Started *******
+2016-09-28 22:11:11 DEBUG GoogleVisionResource:336 - ******** Saved Files *******
+2016-09-28 22:11:19 DEBUG AbzoobaParserResource:105 - Parsing With  Abzooba ....
+2016-09-28 22:17:51 DEBUG GoogleVisionResource:336 -  
+2016-09-28 22:17:51 DEBUG GoogleVisionResource:336 - ******** New Conversion Started *******
+2016-09-28 22:17:51 DEBUG GoogleVisionResource:336 - ******** Saved Files *******
+2016-09-28 22:17:59 DEBUG AbzoobaParserResource:105 - Parsing With  Abzooba ....

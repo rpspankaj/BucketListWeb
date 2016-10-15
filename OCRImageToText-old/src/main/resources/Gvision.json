@@ -1,0 +1,811 @@
+ {
+  "logoAnnotations": [
+    {
+      "mid": "/m/07dwy3",
+      "description": "Pantene",
+      "score": 32,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 763,
+            "y": 835
+          },
+          {
+            "x": 1217,
+            "y": 835
+          },
+          {
+            "x": 1217,
+            "y": 885
+          },
+          {
+            "x": 763,
+            "y": 885
+          }
+        ]
+      }
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/0cf417",
+      "description": "Lotion",
+      "score": 85
+    },
+    {
+      "mid": "/m/0h8nrxj",
+      "description": "Skin Care",
+      "score": 58
+    },
+    {
+      "mid": "/m/0h8lrwk",
+      "description": "Body Wash",
+      "score": 52
+    }
+  ],
+  "textAnnotations": [
+    {
+      "locale": "en",
+      "description": "PANTENE\nPRO-V\nREPAIR &amp; PROTECT\nWITH KERATIN PROTECTION\nPROV\nMIRACLE PROTECTING\nCONDITIONER\nREPAIR THE SIGNS OF DAMAGE\nWITH EVERY WASH\nLn\n28 FL OZ (830 mL)\n",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 755,
+            "y": 831
+          },
+          {
+            "x": 1275,
+            "y": 831
+          },
+          {
+            "x": 1275,
+            "y": 1814
+          },
+          {
+            "x": 755,
+            "y": 1814
+          }
+        ]
+      }
+    },
+    {
+      "description": "PANTENE",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 762,
+            "y": 831
+          },
+          {
+            "x": 1233,
+            "y": 831
+          },
+          {
+            "x": 1233,
+            "y": 919
+          },
+          {
+            "x": 762,
+            "y": 919
+          }
+        ]
+      }
+    },
+    {
+      "description": "PRO-V",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1102,
+            "y": 924
+          },
+          {
+            "x": 1228,
+            "y": 925
+          },
+          {
+            "x": 1228,
+            "y": 961
+          },
+          {
+            "x": 1102,
+            "y": 960
+          }
+        ]
+      }
+    },
+    {
+      "description": "REPAIR",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 755,
+            "y": 1112
+          },
+          {
+            "x": 939,
+            "y": 1112
+          },
+          {
+            "x": 939,
+            "y": 1151
+          },
+          {
+            "x": 755,
+            "y": 1151
+          }
+        ]
+      }
+    },
+    {
+      "description": "&amp;",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 956,
+            "y": 1112
+          },
+          {
+            "x": 990,
+            "y": 1112
+          },
+          {
+            "x": 990,
+            "y": 1151
+          },
+          {
+            "x": 956,
+            "y": 1151
+          }
+        ]
+      }
+    },
+    {
+      "description": "PROTECT",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1015,
+            "y": 1112
+          },
+          {
+            "x": 1245,
+            "y": 1112
+          },
+          {
+            "x": 1245,
+            "y": 1151
+          },
+          {
+            "x": 1015,
+            "y": 1151
+          }
+        ]
+      }
+    },
+    {
+      "description": "WITH",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 786,
+            "y": 1160
+          },
+          {
+            "x": 860,
+            "y": 1160
+          },
+          {
+            "x": 860,
+            "y": 1180
+          },
+          {
+            "x": 786,
+            "y": 1180
+          }
+        ]
+      }
+    },
+    {
+      "description": "KERATIN",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 875,
+            "y": 1160
+          },
+          {
+            "x": 998,
+            "y": 1160
+          },
+          {
+            "x": 998,
+            "y": 1180
+          },
+          {
+            "x": 875,
+            "y": 1180
+          }
+        ]
+      }
+    },
+    {
+      "description": "PROTECTION",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1014,
+            "y": 1160
+          },
+          {
+            "x": 1198,
+            "y": 1160
+          },
+          {
+            "x": 1198,
+            "y": 1180
+          },
+          {
+            "x": 1014,
+            "y": 1180
+          }
+        ]
+      }
+    },
+    {
+      "description": "PROV",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 945,
+            "y": 1404
+          },
+          {
+            "x": 1052,
+            "y": 1404
+          },
+          {
+            "x": 1052,
+            "y": 1434
+          },
+          {
+            "x": 945,
+            "y": 1434
+          }
+        ]
+      }
+    },
+    {
+      "description": "MIRACLE",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 825,
+            "y": 1492
+          },
+          {
+            "x": 960,
+            "y": 1492
+          },
+          {
+            "x": 960,
+            "y": 1513
+          },
+          {
+            "x": 825,
+            "y": 1513
+          }
+        ]
+      }
+    },
+    {
+      "description": "PROTECTING",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 973,
+            "y": 1492
+          },
+          {
+            "x": 1170,
+            "y": 1492
+          },
+          {
+            "x": 1170,
+            "y": 1513
+          },
+          {
+            "x": 973,
+            "y": 1513
+          }
+        ]
+      }
+    },
+    {
+      "description": "CONDITIONER",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 806,
+            "y": 1521
+          },
+          {
+            "x": 1190,
+            "y": 1521
+          },
+          {
+            "x": 1190,
+            "y": 1555
+          },
+          {
+            "x": 806,
+            "y": 1555
+          }
+        ]
+      }
+    },
+    {
+      "description": "REPAIR",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 774,
+            "y": 1585
+          },
+          {
+            "x": 877,
+            "y": 1585
+          },
+          {
+            "x": 877,
+            "y": 1610
+          },
+          {
+            "x": 774,
+            "y": 1610
+          }
+        ]
+      }
+    },
+    {
+      "description": "THE",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 888,
+            "y": 1585
+          },
+          {
+            "x": 938,
+            "y": 1585
+          },
+          {
+            "x": 938,
+            "y": 1610
+          },
+          {
+            "x": 888,
+            "y": 1610
+          }
+        ]
+      }
+    },
+    {
+      "description": "SIGNS",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 953,
+            "y": 1585
+          },
+          {
+            "x": 1034,
+            "y": 1585
+          },
+          {
+            "x": 1034,
+            "y": 1610
+          },
+          {
+            "x": 953,
+            "y": 1610
+          }
+        ]
+      }
+    },
+    {
+      "description": "OF",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1049,
+            "y": 1585
+          },
+          {
+            "x": 1087,
+            "y": 1585
+          },
+          {
+            "x": 1087,
+            "y": 1610
+          },
+          {
+            "x": 1049,
+            "y": 1610
+          }
+        ]
+      }
+    },
+    {
+      "description": "DAMAGE",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1098,
+            "y": 1585
+          },
+          {
+            "x": 1220,
+            "y": 1585
+          },
+          {
+            "x": 1220,
+            "y": 1610
+          },
+          {
+            "x": 1098,
+            "y": 1610
+          }
+        ]
+      }
+    },
+    {
+      "description": "WITH",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 859,
+            "y": 1618
+          },
+          {
+            "x": 934,
+            "y": 1618
+          },
+          {
+            "x": 934,
+            "y": 1642
+          },
+          {
+            "x": 859,
+            "y": 1642
+          }
+        ]
+      }
+    },
+    {
+      "description": "EVERY",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 945,
+            "y": 1618
+          },
+          {
+            "x": 1033,
+            "y": 1618
+          },
+          {
+            "x": 1033,
+            "y": 1642
+          },
+          {
+            "x": 945,
+            "y": 1642
+          }
+        ]
+      }
+    },
+    {
+      "description": "WASH",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1047,
+            "y": 1618
+          },
+          {
+            "x": 1133,
+            "y": 1618
+          },
+          {
+            "x": 1133,
+            "y": 1642
+          },
+          {
+            "x": 1047,
+            "y": 1642
+          }
+        ]
+      }
+    },
+    {
+      "description": "Ln",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1254,
+            "y": 1731
+          },
+          {
+            "x": 1275,
+            "y": 1731
+          },
+          {
+            "x": 1275,
+            "y": 1741
+          },
+          {
+            "x": 1254,
+            "y": 1741
+          }
+        ]
+      }
+    },
+    {
+      "description": "28",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 872,
+            "y": 1771
+          },
+          {
+            "x": 900,
+            "y": 1771
+          },
+          {
+            "x": 900,
+            "y": 1814
+          },
+          {
+            "x": 872,
+            "y": 1814
+          }
+        ]
+      }
+    },
+    {
+      "description": "FL",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 914,
+            "y": 1771
+          },
+          {
+            "x": 944,
+            "y": 1771
+          },
+          {
+            "x": 944,
+            "y": 1814
+          },
+          {
+            "x": 914,
+            "y": 1814
+          }
+        ]
+      }
+    },
+    {
+      "description": "OZ",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 957,
+            "y": 1771
+          },
+          {
+            "x": 992,
+            "y": 1771
+          },
+          {
+            "x": 992,
+            "y": 1814
+          },
+          {
+            "x": 957,
+            "y": 1814
+          }
+        ]
+      }
+    },
+    {
+      "description": "(830",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1001,
+            "y": 1771
+          },
+          {
+            "x": 1062,
+            "y": 1771
+          },
+          {
+            "x": 1062,
+            "y": 1814
+          },
+          {
+            "x": 1001,
+            "y": 1814
+          }
+        ]
+      }
+    },
+    {
+      "description": "mL)",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1078,
+            "y": 1771
+          },
+          {
+            "x": 1121,
+            "y": 1771
+          },
+          {
+            "x": 1121,
+            "y": 1814
+          },
+          {
+            "x": 1078,
+            "y": 1814
+          }
+        ]
+      }
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 233,
+            "green": 233,
+            "blue": 232
+          },
+          "score": 0.33873308,
+          "pixelFraction": 0.8964,
+          "percent": 51.44366243989784,
+          "percentRounded": 51,
+          "rgb": "233, 233, 232",
+          "hex": "E9E9E8"
+        },
+        {
+          "color": {
+            "red": 71,
+            "green": 82,
+            "blue": 145
+          },
+          "score": 0.08611948,
+          "pixelFraction": 0.0018666667,
+          "percent": 13.079033965680392,
+          "percentRounded": 13,
+          "rgb": "71, 82, 145",
+          "hex": "475291"
+        },
+        {
+          "color": {
+            "red": 107,
+            "green": 115,
+            "blue": 146
+          },
+          "score": 0.038828198,
+          "pixelFraction": 0.0020444444,
+          "percent": 5.89686933163279,
+          "percentRounded": 6,
+          "rgb": "107, 115, 146",
+          "hex": "6B7392"
+        },
+        {
+          "color": {
+            "red": 241,
+            "green": 172,
+            "blue": 59
+          },
+          "score": 0.029320737,
+          "pixelFraction": 0.00053333334,
+          "percent": 4.45296366306185,
+          "percentRounded": 4,
+          "rgb": "241, 172, 59",
+          "hex": "F1AC3B"
+        },
+        {
+          "color": {
+            "red": 207,
+            "green": 141,
+            "blue": 57
+          },
+          "score": 0.023141334,
+          "pixelFraction": 0.0004,
+          "percent": 3.5144928115817056,
+          "percentRounded": 4,
+          "rgb": "207, 141, 57",
+          "hex": "CF8D39"
+        },
+        {
+          "color": {
+            "red": 17,
+            "green": 17,
+            "blue": 17
+          },
+          "score": 0.0044509331,
+          "pixelFraction": 0.0228,
+          "percent": 0.675966752166538,
+          "percentRounded": 1,
+          "rgb": "17, 17, 17",
+          "hex": "111111"
+        },
+        {
+          "color": {
+            "red": 90,
+            "green": 53
+          },
+          "score": 0.00185999,
+          "pixelFraction": 0.000044444445,
+          "percent": 0.282478161570714,
+          "percentRounded": 0,
+          "rgb": "90, 53, undefined",
+          "hex": "5A3500"
+        },
+        {
+          "color": {
+            "red": 90,
+            "green": 107,
+            "blue": 171
+          },
+          "score": 0.052823845,
+          "pixelFraction": 0.0008888889,
+          "percent": 8.022399379940943,
+          "percentRounded": 8,
+          "rgb": "90, 107, 171",
+          "hex": "5A6BAB"
+        },
+        {
+          "color": {
+            "red": 201,
+            "green": 201,
+            "blue": 202
+          },
+          "score": 0.042268209,
+          "pixelFraction": 0.040844444,
+          "percent": 6.419306539931241,
+          "percentRounded": 6,
+          "rgb": "201, 201, 202",
+          "hex": "C9C9CA"
+        },
+        {
+          "color": {
+            "red": 30,
+            "green": 49,
+            "blue": 106
+          },
+          "score": 0.040908635,
+          "pixelFraction": 0.0011555556,
+          "percent": 6.212826954535974,
+          "percentRounded": 6,
+          "rgb": "30, 49, 106",
+          "hex": "1E316A"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+	/* unvisited link */
+	a:link {
+    	color: gold;
+	}
+
+	/* visited link */
+	a:visited {
+    	color: gold;
+	}
+
+	/* mouse over link */
+	a:hover {
+    	color: yellow;
+	}
+
+	/* selected link */
+	a:active {
+   	 color: yellow;
+	}/* unvisited link */
+	a:link {
+    	color: gold;
+	}
+
+	/* visited link */
+	a:visited {
+    	color: gold;
+	}
+
+	/* mouse over link */
+	a:hover {
+    	color: orange;
+	}
+
+	/* selected link */
+	a:active {
+   	 color: yellow;
+	}
