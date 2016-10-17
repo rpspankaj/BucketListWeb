@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html ng-app="ItemsApp">
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -21,8 +21,10 @@
 		<link rel="stylesheet" href="css/main.css">
 
         <script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
+    	<script src="js/Items.js"></script>
     </head>
-    <body>
+    <body ng-app="ItemsApp" ng-controller="ItemsController">>
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
@@ -49,21 +51,31 @@
 			        	</ul>
 					</div>
 		        </div>
-		        <nav id="mainmenu" class="mainmenu">
-					<ul>
-						<li class="logo-wrapper"><a href="HomePage.html"><img src="img/bucketlist-logo.jpg" alt="Multipurpose Twitter Bootstrap Template"></a></li>
-						<li>
-							<a href="HomePage.html">Home</a>
-						</li>
-						<li>
-							<a href="">Groups</a>
-						</li>
-						
-						<li>
-							<a href="bucketList.html">My Lists</a>
-						</li>
-					</ul>
+		        <div class="container">
+				<nav class="navbar navbar-default">
+					<div class="container-fluid">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed"
+								data-toggle="collapse" data-target="#navbar1">
+								<span class="sr-only">Toggle navigation</span> <span
+									class="icon-bar"></span> <span class="icon-bar"></span> <span
+									class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand" href="HomePage.html"><img
+								src="img/bucketlist-logo.jpg" alt="Bucket List"> </a>
+						</div>
+						<div id="navbar1" class="navbar-collapse collapse">
+							<ul class="nav navbar-nav">
+								<li><a href="HomePage.html">Home</a></li>
+								<li><a href="">Groups</a></li>
+								<li><a href="bucketList.html">My Lists</a></li>
+							</ul>
+						</div>
+						<!--/.nav-collapse -->
+					</div>
+					<!--/.container-fluid -->
 				</nav>
+			</div>
 			</div>
 		</div>
 
@@ -82,137 +94,25 @@
 	    <div class="eshop-section section">
 	    	<div class="container">
 	    		<h2>Your Favorite Products</h2>
-				<div class="row">
+				
+				<div ng-repeat="item  in itemList" > 
 					<div class="col-md-3 col-sm-6">
 						<div class="shop-item">
 							<div class="shop-item-image">
 								<a href="page-product-details.html"><img src="img/product1.jpg" alt="Item Name"></a>
 							</div>
 							<div class="title">
-								<h3><a href="page-product-details.html">Lorem ipsum dolor</a></h3>
+								<h3><a href="page-product-details.html">{{item.itemName}}</a></h3>
 							</div>
 							<div class="price">
-								$999.99
+								{{item.price}}
 							</div>
 							<div class="actions">
 								<a href="page-product-details.html" class="btn btn-small"><i class="icon-shopping-cart icon-white"></i> Add</a> <span>or <a href="page-product-details.html">Read more</a></span>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-6">
-						<div class="shop-item">
-							<div class="shop-item-image">
-								<a href="page-product-details.html"><img src="img/product2.jpg" alt="Item Name"></a>
-							</div>
-							<div class="title">
-								<h3><a href="page-product-details.html">Lorem ipsum dolor</a></h3>
-							</div>
-							<div class="price">
-								$999.99
-							</div>
-							<div class="actions">
-								<a href="page-product-details.html" class="btn btn-small"><i class="icon-shopping-cart icon-white"></i> Add</a> <span>or <a href="page-product-details.html">Read more</a></span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-6">
-						<div class="shop-item">
-							<div class="shop-item-image">
-								<a href="page-product-details.html"><img src="img/product3.jpg" alt="Item Name"></a>
-							</div>
-							<div class="title">
-								<h3><a href="page-product-details.html">Lorem ipsum dolor</a></h3>
-							</div>
-							<div class="price">
-								$999.99
-							</div>
-							<div class="actions">
-								<a href="page-product-details.html" class="btn btn-small"><i class="icon-shopping-cart icon-white"></i> Add</a> <span>or <a href="page-product-details.html">Read more</a></span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-6">
-						<div class="shop-item">
-							<div class="shop-item-image">
-								<a href="page-product-details.html"><img src="img/product4.jpg" alt="Item Name"></a>
-							</div>
-							<div class="title">
-								<h3><a href="page-product-details.html">Lorem ipsum dolor</a></h3>
-							</div>
-							<div class="price">
-								$999.99
-							</div>
-							<div class="actions">
-								<a href="page-product-details.html" class="btn btn-small"><i class="icon-shopping-cart icon-white"></i> Add</a> <span>or <a href="page-product-details.html">Read more</a></span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-3 col-sm-6">
-						<div class="shop-item">
-							<div class="shop-item-image">
-								<a href="page-product-details.html"><img src="img/product5.jpg" alt="Item Name"></a>
-							</div>
-							<div class="title">
-								<h3><a href="page-product-details.html">Lorem ipsum dolor</a></h3>
-							</div>
-							<div class="price">
-								$999.99
-							</div>
-							<div class="actions">
-								<a href="page-product-details.html" class="btn btn-small"><i class="icon-shopping-cart icon-white"></i> Add</a> <span>or <a href="page-product-details.html">Read more</a></span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-6">
-						<div class="shop-item">
-							<div class="shop-item-image">
-								<a href="page-product-details.html"><img src="img/product6.jpg" alt="Item Name"></a>
-							</div>
-							<div class="title">
-								<h3><a href="page-product-details.html">Lorem ipsum dolor</a></h3>
-							</div>
-							<div class="price">
-								$999.99
-							</div>
-							<div class="actions">
-								<a href="page-product-details.html" class="btn btn-small"><i class="icon-shopping-cart icon-white"></i> Add</a> <span>or <a href="page-product-details.html">Read more</a></span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-6">
-						<div class="shop-item">
-							<div class="shop-item-image">
-								<a href="page-product-details.html"><img src="img/product7.jpg" alt="Item Name"></a>
-							</div>
-							<div class="title">
-								<h3><a href="page-product-details.html">Lorem ipsum dolor</a></h3>
-							</div>
-							<div class="price">
-								$999.99
-							</div>
-							<div class="actions">
-								<a href="page-product-details.html" class="btn btn-small"><i class="icon-shopping-cart icon-white"></i> Add</a> <span>or <a href="page-product-details.html">Read more</a></span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-3 col-sm-6">
-						<div class="shop-item">
-							<div class="shop-item-image">
-								<a href="page-product-details.html"><img src="img/product8.jpg" alt="Item Name"></a>
-							</div>
-							<div class="title">
-								<h3><a href="page-product-details.html">Lorem ipsum dolor</a></h3>
-							</div>
-							<div class="price">
-								$999.99
-							</div>
-							<div class="actions">
-								<a href="page-product-details.html" class="btn btn-small"><i class="icon-shopping-cart icon-white"></i> Add</a> <span>or <a href="page-product-details.html">Read more</a></span>
-							</div>
-						</div>
-					</div>
+					
 				</div>
 				<div class="pagination-wrapper ">
 					<ul class="pagination pagination-lg">
