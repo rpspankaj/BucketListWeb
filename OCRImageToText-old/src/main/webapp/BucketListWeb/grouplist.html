@@ -22,9 +22,9 @@
 
         <script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
-    	<script src="js/angular/bucketlist.js"></script>
+    	<script src="js/angular/groups.js"></script>
     </head>
-    <body ng-app="BucketApp" ng-controller="BucketController">
+    <body ng-app="GroupApp" ng-controller="GroupController">
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
@@ -110,16 +110,18 @@
 						<table class="shopping-cart">
 							<!-- Shopping Cart Item -->
 							
-							<tr ng-repeat="bucket in bucketList">
+							<tr ng-repeat="group in groupList">
+							
 								<!-- Shopping Cart Item Image -->
 								<td class="image"><a href="page-product-details.html"><img src="img/product1.jpg" alt="Item Name"></a></td>
 								<!-- Shopping Cart Item Description & Features -->
 								<td>
-									<div class="cart-item-title"><a href="page-product-details.html">{{bucket.item.itemName}}</a></div>
-									<div class="feature color">
-										Color: <span class="color-white"></span>
+									<div class="cart-item-title"><a href="page-product-details.html">{{group.groupName}}</a></div>
+									Members:
+									<div class="feature" ng-repeat="member in group.members" >
+										 {{member.firstName}}
 									</div>
-									<div class="feature">Size: <b>XXL</b></div>
+									<!--<div class="feature">Size: <b>XXL</b></div> -->
 								</td>
 								<!-- Shopping Cart Item Quantity -->
 								<td class="quantity">
