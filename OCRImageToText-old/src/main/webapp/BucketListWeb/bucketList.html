@@ -25,7 +25,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.3/angular.min.js"></script>
     	<script src="js/angular/bucketlist.js"></script>
     </head>
-    <body ng-app="BucketApp" ng-controller="BucketController">
+    <body ng-app="BucketApp" >
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
@@ -106,32 +106,43 @@
 				</div>
 				<div class="row">
 				
-					<div class="col-md-12">
+					<div ng-controller="BucketController" class="col-md-12">
 						<!-- Shopping Cart Items -->
 						<table class="shopping-cart">
 							<!-- Shopping Cart Item -->
 							
-							<tr ng-repeat="bucket in bucketList">
+							<tr  ng-repeat="bucket in bucketList">
 								<!-- Shopping Cart Item Image -->
 								<td class="image"><a href="page-product-details.html"><img src="img/product1.jpg" alt="Item Name"></a></td>
 								<!-- Shopping Cart Item Description & Features -->
 								<td>
 									<div class="cart-item-title"><a href="page-product-details.html">{{bucket.item.itemName}}</a></div>
-									<div class="feature color">
-										Color: <span class="color-white"></span>
+									<div class="feature color"  ng-if="bucket.status=='close'">
+										Done: <span class="color-red" ></span>
+									</div>
+									<div class="feature color"  ng-if="bucket.status=='open'">
+										Open: <span class="color-green" ></span>
 									</div>
 									<div class="feature">Size: <b>XXL</b></div>
 								</td>
 								<!-- Shopping Cart Item Quantity -->
 								<td class="quantity">
-									<input class="form-control input-sm input-micro" type="text" value="{{bucket.itemQty}}">
+								<div ng-if="bucket.status=='open'">
+									<input class="form-control input-sm input-micro" ng-change="editBucket( bucket )" ng-model="bucket.itemQty" type="text" value="{{bucket.itemQty}}">
+								</div>
+								<div ng-if="bucket.status=='close'">
+									<input class="form-control input-sm input-micro" ng-change="editBucket( bucket )" ng-model="bucket.itemQty" type="text" disabled value="{{bucket.itemQty}}">
+								</div>
+								
 								</td>
 								<!-- Shopping Cart Item Price -->
 								<td class="price">{{bucket.item.price}}</td>
 								<!-- Shopping Cart Item Actions -->
-								<td class="actions">
-									<a href="#" class="btn btn-xs btn-grey"><i class="glyphicon glyphicon-check"></i></a>
-									<a href="#" class="btn btn-xs btn-grey"><i class="glyphicon glyphicon-trash"></i></a>
+								<td class="actions"  >
+								<div ng-if="bucket.status=='open'">
+									<a ng-click="editBucketDone( bucket )" class="btn btn-xs btn-grey"><i class="glyphicon glyphicon-thumbs-up"></i></a>									
+								</div>
+									<a  ng-click="removeBucket( bucket )"  class="btn btn-xs btn-grey"><i class="glyphicon glyphicon-trash"></i></a>
 								</td>
 							</tr>
 							<!-- End Shopping Cart Item -->
